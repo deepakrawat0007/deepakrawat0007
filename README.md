@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **deepakrawat3738@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oR092h10PGRX0wrodjViV8Tnc0VTZfiy/view?usp=sharing](https://drive.google.com/file/d/1oR092h10PGRX0wrodjViV8Tnc0VTZfiy/view?usp=sharing)
+- 📄 Know about me and works [https://my-portfolio-x4lo.onrender.com](https://my-portfolio-x4lo.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
