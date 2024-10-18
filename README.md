@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **DSA and MERN Stack**
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on **Project**
-
-- 🤝 I’m looking for help with **MERN Projects**
+- 🌱 I’m currently working as **Full Stack Developer** in Icreon
 
 - 💬 Ask me about **Javascript/NodeJS/MongoDB/ReactJS**
 
